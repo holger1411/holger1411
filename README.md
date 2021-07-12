@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Tailwind CSS, JAMstack setups, API´s and more**
 
-- 💬 Ask me about **HTML, SCSS, WordPress, Bootstrap 5, Gulp, Eleventy, Performance Optimization, npm**
+- 💬 Ask me about **HTML, SCSS, WordPress, Bootstrap 5, Gulp, Eleventy, Performance Optimization, npm, UX Design, Design Systems, UI Architecture**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
