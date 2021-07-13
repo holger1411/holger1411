@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Tailwind CSS, JAMstack setups, API stuff, Headless WordPress, Strapi and more**
 
 - 💬 Ask me about **HTML, SCSS, WordPress, Bootstrap 5, Gulp, Eleventy, Performance Optimization, npm, UX Design, Design Systems, UI Architecture**
-
+<hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/holger1411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="holger1411" height="30" width="40" /></a>
