@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Holger</h1>
-<h3 align="center">You can call me a UX Engineer, a UI Architect, a Frontend Designer or a Front-of-the-Frontend Developer</h3>
+<h3 align="center">I work within this strange intersection of product design and product development. So you can call me a UX Engineer, a UI Architect, a Frontend Designer or a Front-of-the-Frontend Developer</h3>
 
 <p align="left"><small>Since Jul 13th, 2021:</small><br/> <img src="https://komarev.com/ghpvc/?username=holger1411&label=Profile%20views&color=0e75b6&style=flat" alt="holger1411" /> </p>
 
