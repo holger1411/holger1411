@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/holger1411/holger1411/main/hk-frame.jpg" alt="header image for Holger Koenemanns GitHub account" style="width:100%;"/>
-<h1>Say Hi! to my tiny part of GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1>Say Hi! to my tiny corner of GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h4>I work within this strange intersection of product design and product development. So you can call me a UX Engineer, a UI Architect, a Frontend Designer or a Front-of-the-Frontend Developer.</h4>
 
 - 🔭 I’m currently working on [a Eleventy (aka 11ty) + Bootstrap 5 starter kit](https://11straps.com)
