@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Holger</h1>
 <h3 align="center">You can call me a UX Engineer, a UI Architect, a Frontend Designer or a Front-of-the-Frontend Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=holger1411&label=Profile%20views&color=0e75b6&style=flat" alt="holger1411" /> </p>
+<p align="left"><small>Since Jul 13th, 2021:</small><br/> <img src="https://komarev.com/ghpvc/?username=holger1411&label=Profile%20views&color=0e75b6&style=flat" alt="holger1411" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=holger1411" alt="holger1411" /></a> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [a Eleventy (aka 11ty) + Bootstrap 5 starter kit](https://11straps.com)
 
-- 🌱 I’m currently learning **Tailwind CSS, JAMstack setups, API´s and more**
+- 🌱 I’m currently learning **Tailwind CSS, JAMstack setups, API stuff, Headless WordPress, Strapi and more**
 
 - 💬 Ask me about **HTML, SCSS, WordPress, Bootstrap 5, Gulp, Eleventy, Performance Optimization, npm, UX Design, Design Systems, UI Architecture**
 
