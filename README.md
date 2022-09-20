@@ -2,6 +2,8 @@
 <h1>Say Hi! to my tiny corner of GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h4>I work within this strange intersection of product design and product development. So you can call me a UX Engineer, a UI Architect, a Frontend Designer or a Front-of-the-Frontend Developer.</h4>
 
+- ❤️  [My sideproject](https://templatedeck.com)
+
 - 📺 [My website](https://holgerkoenemann.com)
 
 - 📂 [My online CV](https://read.cv/holgerkoenemann)
